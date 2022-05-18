@@ -4,6 +4,12 @@ b-text{
     font: hero;
     font-weight: bold;
 }
+div{
+    color: white;
+    font-size: 15px;
+    font: italic;
+    font-weight: 200;
+}
 
 box-one{
     background-color: white;
