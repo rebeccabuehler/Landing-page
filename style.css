@@ -6,13 +6,33 @@ h1{
 
 box-one{
     background-color: white;
+    padding: 20px;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    flex-direction: column;
 }
 box-two{
     background-color: #1F2937;
+    padding: 20px;
+    height: 100px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
 }
 box-three{
     background-color: white;
+    padding: 20px;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    flex-direction: column;
 }
 box-four{
     background-color: #E5E7EB;
+    padding: 20px;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    flex-direction: column;
 }
