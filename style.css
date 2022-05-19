@@ -5,10 +5,12 @@ b-text{
     font-weight: bold;
 }
 div{
-    color: white;
+    color: black;
     font-size: 15px;
     font: italic;
     font-weight: 200;
+    display: flex;
+    flex-wrap: nowrap;
 }
 
 box-one{
