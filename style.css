@@ -17,17 +17,19 @@
 .container1 .one {
     background: #1F2937;
     border: 4px solid #1F2937;
+    margin-left: 60px;
     height: 50px;
     width: 50px;
-    flex: 200px;
+    flex: 400px;
 }
 .container1 .two {
     background: #1F2937;
     border: 4px solid #1F2937;
+    padding-left: 40px;
     padding-top: 20px;
     height: 150px;
     width: 400px;
-    flex: 350px;
+    flex: 600px;
 }
 .container1 .three {
     background: #1F2937;
@@ -35,25 +37,25 @@
     padding-left: 20px;
     height: 50px;
     width: 55px;
-    flex: 300px;
+    flex: 150px;
 }
 .container1 .four {
-    background: #1F2937;
-    border: 4px solid #1F2937;
-    padding-left: 40px;
+    background: #3882f6;
+    border: 4px solid #3882f6;
+    padding-left: 20px;
+    padding-top: 20px;
     height: 50px;
-    width: 70px;
-    flex: 100px;
+    width: 50px;
+    flex: 30px;
 }
-.container1 .six {
+.container1 .five {
     background-color: #1F2937;
     background: url(picture.jpg);
     border: 4px solid #1F2937;
-    margin: 35px;
-    margin-bottom: 0px;
+    margin-right: 150px;
     height: 108px;
     width: 50px;
-    flex: 150px;
+    flex: 200px;
 }
 logo{
     color: #f9faf8;
@@ -98,20 +100,23 @@ p{
 .container2 .one{
     background: white;
     border: 4px solid white;
+    margin-left: 400px;
+    margin-right: 400px;
     padding-left: 225px;
     height: 50px;
     width: 50px;
-    flex: 500px;
+    flex: 600px;
 }
 .container2 .two{
     background: white;
     border: 4px solid #3382f6;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-right: 60px;
+    margin-left: 60px;
     height: 100px;
     width: 50px;
-    flex: 100px;
+    flex: 200px;
 }
+
 .container3 {
     background:#e5e7eb;
     padding: 8px;
